@@ -32,6 +32,7 @@ Example Usage
 
 
 console.log(tinyCaesar("J", 3));  // Output: "M"
+
 console.log(tinyCaesar("M", -3)); // Output: "J"
 
 
